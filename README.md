@@ -28,4 +28,4 @@
 ## Lekce 04: OpenAI
 
 ## Lekce 05: Embeddings
-https://platform.openai.com/docs/api-reference/embeddings
+<https://platform.openai.com/docs/api-reference/embeddings>
