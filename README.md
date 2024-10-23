@@ -4,7 +4,6 @@
 - [Lekce 03: Whisper](#lekce-03-whisper)
 
 ## Ucastnici
-
 1. Petr Zikan
 2. Filip Holoubek
 3. Jan Hermann
@@ -25,3 +24,8 @@
 
 ## Lekce 03: Whisper
 {% include_relative 03_whisper/README.md %}
+
+## Lekce 04: OpenAI
+
+## Lekce 05: Embeddings
+https://platform.openai.com/docs/api-reference/embeddings
